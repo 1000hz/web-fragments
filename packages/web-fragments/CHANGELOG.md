@@ -1,5 +1,14 @@
 # web-fragments
 
+## 0.0.11
+
+### Patch Changes
+
+- 39e0f01: Focus and selection state is now preserved when piercing a <fragment-host> into a <fragment-outlet>.
+- eeb6667: feat: Prevent styling leakage from inherited css properties
+- Updated dependencies [9511b7b]
+  - reframed@0.0.11
+
 ## 0.0.10
 
 ### Patch Changes
